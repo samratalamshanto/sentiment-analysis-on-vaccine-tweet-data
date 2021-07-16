@@ -5,6 +5,7 @@ Covid-19 Vaccine related tweet:
 Dataset link:
 
 1.https://www.kaggle.com/ritesh2000/covid19-vaccine-tweets
+
 2.https://www.kaggle.com/merahul28/covid19-vaccine-related-tweets
 
 Machine learning approaches: RNN, CNN, Logistic Regression (LR) and Merged (RNN+CNN)
